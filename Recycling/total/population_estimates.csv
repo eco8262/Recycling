@@ -1,0 +1,991 @@
+regional_district,year,population
+British Columbia,1986,3003621
+British Columbia,1987,3048651
+British Columbia,1988,3114761
+British Columbia,1989,3196725
+British Columbia,1990,3292111
+British Columbia,1991,3373787
+British Columbia,1992,3468802
+British Columbia,1993,3567772
+British Columbia,1994,3676075
+British Columbia,1995,3777390
+British Columbia,1996,3874317
+British Columbia,1997,3948583
+British Columbia,1998,3983113
+British Columbia,1999,4011375
+British Columbia,2000,4039230
+British Columbia,2001,4076881
+British Columbia,2002,4100161
+British Columbia,2003,4123937
+British Columbia,2004,4155017
+British Columbia,2005,4195764
+British Columbia,2006,4241794
+British Columbia,2007,4290984
+British Columbia,2008,4349336
+British Columbia,2009,4410506
+British Columbia,2010,4465546
+British Columbia,2011,4502104
+British Columbia,2012,4566769
+British Columbia,2013,4630077
+British Columbia,2014,4707103
+British Columbia,2015,4776388
+British Columbia,2016,4859250
+British Columbia,2017,4922152
+British Columbia,2018,4991687
+East Kootenay,1986,54881
+East Kootenay,1987,53745
+East Kootenay,1988,52996
+East Kootenay,1989,53516
+East Kootenay,1990,54068
+East Kootenay,1991,53749
+East Kootenay,1992,54093
+East Kootenay,1993,54891
+East Kootenay,1994,55662
+East Kootenay,1995,57217
+East Kootenay,1996,58486
+East Kootenay,1997,58113
+East Kootenay,1998,57487
+East Kootenay,1999,57389
+East Kootenay,2000,57124
+East Kootenay,2001,57017
+East Kootenay,2002,56430
+East Kootenay,2003,56080
+East Kootenay,2004,55832
+East Kootenay,2005,55691
+East Kootenay,2006,56047
+East Kootenay,2007,56286
+East Kootenay,2008,57383
+East Kootenay,2009,58013
+East Kootenay,2010,57611
+East Kootenay,2011,57718
+East Kootenay,2012,58135
+East Kootenay,2013,59156
+East Kootenay,2014,60444
+East Kootenay,2015,61825
+East Kootenay,2016,62779
+East Kootenay,2017,63173
+East Kootenay,2018,64004
+Central Kootenay,1986,50949
+Central Kootenay,1987,50041
+Central Kootenay,1988,49857
+Central Kootenay,1989,50415
+Central Kootenay,1990,51483
+Central Kootenay,1991,52351
+Central Kootenay,1992,54269
+Central Kootenay,1993,55623
+Central Kootenay,1994,57601
+Central Kootenay,1995,58819
+Central Kootenay,1996,60200
+Central Kootenay,1997,60115
+Central Kootenay,1998,59648
+Central Kootenay,1999,59098
+Central Kootenay,2000,58496
+Central Kootenay,2001,57918
+Central Kootenay,2002,57503
+Central Kootenay,2003,57454
+Central Kootenay,2004,56596
+Central Kootenay,2005,56462
+Central Kootenay,2006,56489
+Central Kootenay,2007,57168
+Central Kootenay,2008,58150
+Central Kootenay,2009,58649
+Central Kootenay,2010,58834
+Central Kootenay,2011,59336
+Central Kootenay,2012,59350
+Central Kootenay,2013,59611
+Central Kootenay,2014,60717
+Central Kootenay,2015,61106
+Central Kootenay,2016,61948
+Central Kootenay,2017,62110
+Central Kootenay,2018,62670
+Kootenay-Boundary,1986,31347
+Kootenay-Boundary,1987,30769
+Kootenay-Boundary,1988,30669
+Kootenay-Boundary,1989,31094
+Kootenay-Boundary,1990,31584
+Kootenay-Boundary,1991,31977
+Kootenay-Boundary,1992,32399
+Kootenay-Boundary,1993,32940
+Kootenay-Boundary,1994,33505
+Kootenay-Boundary,1995,33845
+Kootenay-Boundary,1996,34066
+Kootenay-Boundary,1997,33729
+Kootenay-Boundary,1998,33431
+Kootenay-Boundary,1999,33086
+Kootenay-Boundary,2000,32649
+Kootenay-Boundary,2001,32105
+Kootenay-Boundary,2002,31854
+Kootenay-Boundary,2003,31669
+Kootenay-Boundary,2004,31113
+Kootenay-Boundary,2005,31229
+Kootenay-Boundary,2006,30814
+Kootenay-Boundary,2007,31198
+Kootenay-Boundary,2008,31684
+Kootenay-Boundary,2009,31704
+Kootenay-Boundary,2010,31316
+Kootenay-Boundary,2011,31513
+Kootenay-Boundary,2012,31635
+Kootenay-Boundary,2013,31554
+Kootenay-Boundary,2014,31999
+Kootenay-Boundary,2015,32650
+Kootenay-Boundary,2016,32822
+Kootenay-Boundary,2017,32991
+Kootenay-Boundary,2018,33148
+Okanagan-Similkameen,1986,60840
+Okanagan-Similkameen,1987,61693
+Okanagan-Similkameen,1988,62678
+Okanagan-Similkameen,1989,63595
+Okanagan-Similkameen,1990,65752
+Okanagan-Similkameen,1991,68102
+Okanagan-Similkameen,1992,70720
+Okanagan-Similkameen,1993,73575
+Okanagan-Similkameen,1994,76447
+Okanagan-Similkameen,1995,77730
+Okanagan-Similkameen,1996,78381
+Okanagan-Similkameen,1997,78931
+Okanagan-Similkameen,1998,78535
+Okanagan-Similkameen,1999,78313
+Okanagan-Similkameen,2000,77783
+Okanagan-Similkameen,2001,77526
+Okanagan-Similkameen,2002,77793
+Okanagan-Similkameen,2003,77612
+Okanagan-Similkameen,2004,77759
+Okanagan-Similkameen,2005,78646
+Okanagan-Similkameen,2006,80116
+Okanagan-Similkameen,2007,80786
+Okanagan-Similkameen,2008,81593
+Okanagan-Similkameen,2009,82478
+Okanagan-Similkameen,2010,81533
+Okanagan-Similkameen,2011,81673
+Okanagan-Similkameen,2012,82458
+Okanagan-Similkameen,2013,83206
+Okanagan-Similkameen,2014,84219
+Okanagan-Similkameen,2015,85360
+Okanagan-Similkameen,2016,86259
+Okanagan-Similkameen,2017,87628
+Okanagan-Similkameen,2018,88549
+Fraser Valley,1986,155055
+Fraser Valley,1987,159341
+Fraser Valley,1988,165520
+Fraser Valley,1989,172915
+Fraser Valley,1990,183935
+Fraser Valley,1991,191141
+Fraser Valley,1992,199115
+Fraser Valley,1993,207913
+Fraser Valley,1994,216717
+Fraser Valley,1995,224233
+Fraser Valley,1996,230985
+Fraser Valley,1997,236515
+Fraser Valley,1998,238839
+Fraser Valley,1999,242197
+Fraser Valley,2000,244491
+Fraser Valley,2001,248820
+Fraser Valley,2002,251834
+Fraser Valley,2003,254000
+Fraser Valley,2004,259897
+Fraser Valley,2005,262923
+Fraser Valley,2006,266524
+Fraser Valley,2007,270169
+Fraser Valley,2008,274651
+Fraser Valley,2009,278562
+Fraser Valley,2010,282590
+Fraser Valley,2011,284099
+Fraser Valley,2012,289097
+Fraser Valley,2013,294242
+Fraser Valley,2014,297919
+Fraser Valley,2015,303508
+Fraser Valley,2016,309640
+Fraser Valley,2017,314511
+Fraser Valley,2018,319116
+Metro Vancouver,1986,1442788
+Metro Vancouver,1987,1474812
+Metro Vancouver,1988,1518677
+Metro Vancouver,1989,1565639
+Metro Vancouver,1990,1608545
+Metro Vancouver,1991,1647543
+Metro Vancouver,1992,1699958
+Metro Vancouver,1993,1745539
+Metro Vancouver,1994,1798000
+Metro Vancouver,1995,1851813
+Metro Vancouver,1996,1906525
+Metro Vancouver,1997,1958918
+Metro Vancouver,1998,1992953
+Metro Vancouver,1999,2024636
+Metro Vancouver,2000,2055240
+Metro Vancouver,2001,2093377
+Metro Vancouver,2002,2115906
+Metro Vancouver,2003,2133241
+Metro Vancouver,2004,2148218
+Metro Vancouver,2005,2173639
+Metro Vancouver,2006,2198608
+Metro Vancouver,2007,2232336
+Metro Vancouver,2008,2262267
+Metro Vancouver,2009,2303767
+Metro Vancouver,2010,2351119
+Metro Vancouver,2011,2374603
+Metro Vancouver,2012,2419004
+Metro Vancouver,2013,2455243
+Metro Vancouver,2014,2495794
+Metro Vancouver,2015,2530742
+Metro Vancouver,2016,2578829
+Metro Vancouver,2017,2614764
+Metro Vancouver,2018,2654227
+Capital,1986,275003
+Capital,1987,279969
+Capital,1988,286059
+Capital,1989,293484
+Capital,1990,301247
+Capital,1991,307679
+Capital,1992,313891
+Capital,1993,319632
+Capital,1994,324005
+Capital,1995,328370
+Capital,1996,331102
+Capital,1997,334757
+Capital,1998,336019
+Capital,1999,337228
+Capital,2000,337858
+Capital,2001,340672
+Capital,2002,342605
+Capital,2003,345368
+Capital,2004,347761
+Capital,2005,352330
+Capital,2006,355438
+Capital,2007,357279
+Capital,2008,360661
+Capital,2009,363445
+Capital,2010,366515
+Capital,2011,367875
+Capital,2012,373157
+Capital,2013,378376
+Capital,2014,385118
+Capital,2015,394894
+Capital,2016,403011
+Capital,2017,408233
+Capital,2018,413406
+Cowichan Valley,1986,54402
+Cowichan Valley,1987,54853
+Cowichan Valley,1988,55915
+Cowichan Valley,1989,57561
+Cowichan Valley,1990,60134
+Cowichan Valley,1991,62206
+Cowichan Valley,1992,63959
+Cowichan Valley,1993,66517
+Cowichan Valley,1994,69748
+Cowichan Valley,1995,71986
+Cowichan Valley,1996,73547
+Cowichan Valley,1997,74414
+Cowichan Valley,1998,74478
+Cowichan Valley,1999,74297
+Cowichan Valley,2000,73894
+Cowichan Valley,2001,73961
+Cowichan Valley,2002,74368
+Cowichan Valley,2003,75071
+Cowichan Valley,2004,75848
+Cowichan Valley,2005,76950
+Cowichan Valley,2006,78400
+Cowichan Valley,2007,79000
+Cowichan Valley,2008,79978
+Cowichan Valley,2009,80432
+Cowichan Valley,2010,81123
+Cowichan Valley,2011,81538
+Cowichan Valley,2012,81975
+Cowichan Valley,2013,82996
+Cowichan Valley,2014,84622
+Cowichan Valley,2015,86079
+Cowichan Valley,2016,87550
+Cowichan Valley,2017,88866
+Cowichan Valley,2018,90380
+Nanaimo,1986,84992
+Nanaimo,1987,86231
+Nanaimo,1988,88911
+Nanaimo,1989,92746
+Nanaimo,1990,98320
+Nanaimo,1991,104408
+Nanaimo,1992,108368
+Nanaimo,1993,113585
+Nanaimo,1994,119521
+Nanaimo,1995,123259
+Nanaimo,1996,126295
+Nanaimo,1997,128563
+Nanaimo,1998,129031
+Nanaimo,1999,129230
+Nanaimo,2000,129200
+Nanaimo,2001,129843
+Nanaimo,2002,131588
+Nanaimo,2003,133713
+Nanaimo,2004,135199
+Nanaimo,2005,138261
+Nanaimo,2006,141220
+Nanaimo,2007,142207
+Nanaimo,2008,144547
+Nanaimo,2009,146271
+Nanaimo,2010,147464
+Nanaimo,2011,148877
+Nanaimo,2012,150017
+Nanaimo,2013,152158
+Nanaimo,2014,155118
+Nanaimo,2015,158143
+Nanaimo,2016,162617
+Nanaimo,2017,164700
+Nanaimo,2018,167162
+Alberni-Clayoquot,1986,31349
+Alberni-Clayoquot,1987,31340
+Alberni-Clayoquot,1988,31311
+Alberni-Clayoquot,1989,31484
+Alberni-Clayoquot,1990,31969
+Alberni-Clayoquot,1991,32052
+Alberni-Clayoquot,1992,31527
+Alberni-Clayoquot,1993,32028
+Alberni-Clayoquot,1994,31734
+Alberni-Clayoquot,1995,32723
+Alberni-Clayoquot,1996,32840
+Alberni-Clayoquot,1997,32594
+Alberni-Clayoquot,1998,32164
+Alberni-Clayoquot,1999,31598
+Alberni-Clayoquot,2000,31107
+Alberni-Clayoquot,2001,30741
+Alberni-Clayoquot,2002,30507
+Alberni-Clayoquot,2003,30471
+Alberni-Clayoquot,2004,30676
+Alberni-Clayoquot,2005,30844
+Alberni-Clayoquot,2006,31076
+Alberni-Clayoquot,2007,31008
+Alberni-Clayoquot,2008,31225
+Alberni-Clayoquot,2009,31313
+Alberni-Clayoquot,2010,31303
+Alberni-Clayoquot,2011,31602
+Alberni-Clayoquot,2012,31429
+Alberni-Clayoquot,2013,31458
+Alberni-Clayoquot,2014,31962
+Alberni-Clayoquot,2015,31887
+Alberni-Clayoquot,2016,32305
+Alberni-Clayoquot,2017,32665
+Alberni-Clayoquot,2018,33241
+Strathcona,1986,34822
+Strathcona,1987,35178
+Strathcona,1988,36228
+Strathcona,1989,37143
+Strathcona,1990,38838
+Strathcona,1991,39419
+Strathcona,1992,39999
+Strathcona,1993,41050
+Strathcona,1994,42357
+Strathcona,1995,43346
+Strathcona,1996,44362
+Strathcona,1997,44526
+Strathcona,1998,44101
+Strathcona,1999,43029
+Strathcona,2000,42241
+Strathcona,2001,41786
+Strathcona,2002,41909
+Strathcona,2003,41684
+Strathcona,2004,41774
+Strathcona,2005,42086
+Strathcona,2006,42667
+Strathcona,2007,42833
+Strathcona,2008,43321
+Strathcona,2009,43637
+Strathcona,2010,43618
+Strathcona,2011,43951
+Strathcona,2012,43910
+Strathcona,2013,44591
+Strathcona,2014,45257
+Strathcona,2015,46190
+Strathcona,2016,46656
+Strathcona,2017,47349
+Strathcona,2018,48135
+Comox Valley,1986,38798
+Comox Valley,1987,39276
+Comox Valley,1988,40331
+Comox Valley,1989,41756
+Comox Valley,1990,43332
+Comox Valley,1991,45653
+Comox Valley,1992,47358
+Comox Valley,1993,49803
+Comox Valley,1994,53193
+Comox Valley,1995,55494
+Comox Valley,1996,56914
+Comox Valley,1997,57504
+Comox Valley,1998,57683
+Comox Valley,1999,57275
+Comox Valley,2000,56482
+Comox Valley,2001,56371
+Comox Valley,2002,56338
+Comox Valley,2003,57190
+Comox Valley,2004,57913
+Comox Valley,2005,59199
+Comox Valley,2006,60365
+Comox Valley,2007,61502
+Comox Valley,2008,62896
+Comox Valley,2009,63551
+Comox Valley,2010,63875
+Comox Valley,2011,64459
+Comox Valley,2012,65173
+Comox Valley,2013,65980
+Comox Valley,2014,66915
+Comox Valley,2015,68074
+Comox Valley,2016,69484
+Comox Valley,2017,70474
+Comox Valley,2018,71535
+Powell River,1986,18851
+Powell River,1987,18535
+Powell River,1988,18698
+Powell River,1989,19058
+Powell River,1990,19368
+Powell River,1991,19593
+Powell River,1992,19567
+Powell River,1993,19614
+Powell River,1994,19919
+Powell River,1995,20137
+Powell River,1996,20578
+Powell River,1997,20852
+Powell River,1998,20568
+Powell River,1999,20343
+Powell River,2000,20078
+Powell River,2001,19916
+Powell River,2002,19731
+Powell River,2003,19589
+Powell River,2004,19527
+Powell River,2005,19553
+Powell River,2006,19695
+Powell River,2007,19643
+Powell River,2008,19746
+Powell River,2009,19835
+Powell River,2010,19939
+Powell River,2011,20111
+Powell River,2012,20295
+Powell River,2013,20432
+Powell River,2014,20662
+Powell River,2015,20805
+Powell River,2016,20962
+Powell River,2017,21136
+Powell River,2018,21352
+Sunshine Coast,1986,17348
+Sunshine Coast,1987,17666
+Sunshine Coast,1988,18379
+Sunshine Coast,1989,19212
+Sunshine Coast,1990,20497
+Sunshine Coast,1991,21337
+Sunshine Coast,1992,22209
+Sunshine Coast,1993,23270
+Sunshine Coast,1994,24267
+Sunshine Coast,1995,24945
+Sunshine Coast,1996,25781
+Sunshine Coast,1997,26101
+Sunshine Coast,1998,26233
+Sunshine Coast,1999,26178
+Sunshine Coast,2000,25976
+Sunshine Coast,2001,25947
+Sunshine Coast,2002,26177
+Sunshine Coast,2003,26450
+Sunshine Coast,2004,26619
+Sunshine Coast,2005,27349
+Sunshine Coast,2006,27921
+Sunshine Coast,2007,28198
+Sunshine Coast,2008,28462
+Sunshine Coast,2009,28528
+Sunshine Coast,2010,28590
+Sunshine Coast,2011,28937
+Sunshine Coast,2012,29344
+Sunshine Coast,2013,29900
+Sunshine Coast,2014,30547
+Sunshine Coast,2015,31022
+Sunshine Coast,2016,31300
+Sunshine Coast,2017,31630
+Sunshine Coast,2018,31977
+Squamish-Lillooet,1986,20487
+Squamish-Lillooet,1987,21058
+Squamish-Lillooet,1988,21797
+Squamish-Lillooet,1989,23502
+Squamish-Lillooet,1990,24657
+Squamish-Lillooet,1991,25069
+Squamish-Lillooet,1992,26279
+Squamish-Lillooet,1993,27464
+Squamish-Lillooet,1994,29186
+Squamish-Lillooet,1995,30715
+Squamish-Lillooet,1996,32059
+Squamish-Lillooet,1997,33431
+Squamish-Lillooet,1998,34131
+Squamish-Lillooet,1999,34333
+Squamish-Lillooet,2000,34249
+Squamish-Lillooet,2001,34675
+Squamish-Lillooet,2002,34917
+Squamish-Lillooet,2003,35381
+Squamish-Lillooet,2004,35943
+Squamish-Lillooet,2005,35825
+Squamish-Lillooet,2006,36639
+Squamish-Lillooet,2007,36677
+Squamish-Lillooet,2008,37014
+Squamish-Lillooet,2009,38059
+Squamish-Lillooet,2010,38788
+Squamish-Lillooet,2011,39540
+Squamish-Lillooet,2012,40718
+Squamish-Lillooet,2013,41261
+Squamish-Lillooet,2014,42088
+Squamish-Lillooet,2015,42853
+Squamish-Lillooet,2016,43951
+Squamish-Lillooet,2017,44637
+Squamish-Lillooet,2018,45393
+Thompson-Nicola,1986,101719
+Thompson-Nicola,1987,102207
+Thompson-Nicola,1988,102486
+Thompson-Nicola,1989,103409
+Thompson-Nicola,1990,105452
+Thompson-Nicola,1991,107074
+Thompson-Nicola,1992,108763
+Thompson-Nicola,1993,112190
+Thompson-Nicola,1994,116114
+Thompson-Nicola,1995,119825
+Thompson-Nicola,1996,123484
+Thompson-Nicola,1997,124978
+Thompson-Nicola,1998,125051
+Thompson-Nicola,1999,124350
+Thompson-Nicola,2000,125262
+Thompson-Nicola,2001,124083
+Thompson-Nicola,2002,123963
+Thompson-Nicola,2003,123464
+Thompson-Nicola,2004,124027
+Thompson-Nicola,2005,124336
+Thompson-Nicola,2006,126086
+Thompson-Nicola,2007,127240
+Thompson-Nicola,2008,129718
+Thompson-Nicola,2009,130990
+Thompson-Nicola,2010,130442
+Thompson-Nicola,2011,130968
+Thompson-Nicola,2012,131336
+Thompson-Nicola,2013,132477
+Thompson-Nicola,2014,134628
+Thompson-Nicola,2015,136470
+Thompson-Nicola,2016,138535
+Thompson-Nicola,2017,140121
+Thompson-Nicola,2018,142300
+Central Okanagan,1986,92922
+Central Okanagan,1987,95222
+Central Okanagan,1988,98139
+Central Okanagan,1989,102414
+Central Okanagan,1990,108901
+Central Okanagan,1991,114870
+Central Okanagan,1992,122251
+Central Okanagan,1993,129126
+Central Okanagan,1994,133909
+Central Okanagan,1995,137991
+Central Okanagan,1996,141843
+Central Okanagan,1997,145658
+Central Okanagan,1998,149016
+Central Okanagan,1999,150591
+Central Okanagan,2000,152366
+Central Okanagan,2001,154371
+Central Okanagan,2002,156109
+Central Okanagan,2003,158608
+Central Okanagan,2004,159555
+Central Okanagan,2005,163276
+Central Okanagan,2006,167454
+Central Okanagan,2007,172743
+Central Okanagan,2008,178460
+Central Okanagan,2009,182090
+Central Okanagan,2010,182119
+Central Okanagan,2011,183661
+Central Okanagan,2012,186389
+Central Okanagan,2013,188468
+Central Okanagan,2014,193041
+Central Okanagan,2015,197758
+Central Okanagan,2016,201424
+Central Okanagan,2017,204870
+Central Okanagan,2018,208863
+North Okanagan,1986,56898
+North Okanagan,1987,57627
+North Okanagan,1988,58466
+North Okanagan,1989,59239
+North Okanagan,1990,61140
+North Okanagan,1991,63296
+North Okanagan,1992,65447
+North Okanagan,1993,68013
+North Okanagan,1994,70975
+North Okanagan,1995,72400
+North Okanagan,1996,74196
+North Okanagan,1997,75176
+North Okanagan,1998,75162
+North Okanagan,1999,74870
+North Okanagan,2000,75109
+North Okanagan,2001,75226
+North Okanagan,2002,75645
+North Okanagan,2003,75980
+North Okanagan,2004,76698
+North Okanagan,2005,77701
+North Okanagan,2006,78812
+North Okanagan,2007,79761
+North Okanagan,2008,81226
+North Okanagan,2009,82496
+North Okanagan,2010,82179
+North Okanagan,2011,82445
+North Okanagan,2012,82316
+North Okanagan,2013,82820
+North Okanagan,2014,84607
+North Okanagan,2015,86376
+North Okanagan,2016,87572
+North Okanagan,2017,88691
+North Okanagan,2018,89723
+Columbia-Shuswap,1986,41533
+Columbia-Shuswap,1987,41090
+Columbia-Shuswap,1988,41216
+Columbia-Shuswap,1989,41464
+Columbia-Shuswap,1990,42081
+Columbia-Shuswap,1991,42750
+Columbia-Shuswap,1992,43538
+Columbia-Shuswap,1993,44853
+Columbia-Shuswap,1994,46849
+Columbia-Shuswap,1995,48450
+Columbia-Shuswap,1996,49713
+Columbia-Shuswap,1997,49860
+Columbia-Shuswap,1998,49715
+Columbia-Shuswap,1999,49332
+Columbia-Shuswap,2000,49568
+Columbia-Shuswap,2001,48961
+Columbia-Shuswap,2002,48524
+Columbia-Shuswap,2003,48449
+Columbia-Shuswap,2004,48923
+Columbia-Shuswap,2005,49249
+Columbia-Shuswap,2006,50086
+Columbia-Shuswap,2007,50363
+Columbia-Shuswap,2008,51419
+Columbia-Shuswap,2009,51575
+Columbia-Shuswap,2010,51024
+Columbia-Shuswap,2011,51216
+Columbia-Shuswap,2012,51009
+Columbia-Shuswap,2013,51404
+Columbia-Shuswap,2014,52633
+Columbia-Shuswap,2015,52824
+Columbia-Shuswap,2016,53643
+Columbia-Shuswap,2017,54383
+Columbia-Shuswap,2018,55452
+Cariboo,1986,62469
+Cariboo,1987,62633
+Cariboo,1988,62328
+Cariboo,1989,61837
+Cariboo,1990,62613
+Cariboo,1991,62844
+Cariboo,1992,62851
+Cariboo,1993,64029
+Cariboo,1994,65660
+Cariboo,1995,67697
+Cariboo,1996,69896
+Cariboo,1997,70508
+Cariboo,1998,70055
+Cariboo,1999,68868
+Cariboo,2000,68991
+Cariboo,2001,67405
+Cariboo,2002,65675
+Cariboo,2003,64514
+Cariboo,2004,64443
+Cariboo,2005,63682
+Cariboo,2006,63056
+Cariboo,2007,62663
+Cariboo,2008,63228
+Cariboo,2009,63267
+Cariboo,2010,63061
+Cariboo,2011,63336
+Cariboo,2012,62995
+Cariboo,2013,63055
+Cariboo,2014,63427
+Cariboo,2015,64068
+Cariboo,2016,64588
+Cariboo,2017,64940
+Cariboo,2018,65325
+Mount Waddington,1986,15432
+Mount Waddington,1987,15029
+Mount Waddington,1988,14911
+Mount Waddington,1989,14755
+Mount Waddington,1990,14606
+Mount Waddington,1991,14285
+Mount Waddington,1992,14165
+Mount Waddington,1993,14363
+Mount Waddington,1994,14675
+Mount Waddington,1995,14889
+Mount Waddington,1996,15237
+Mount Waddington,1997,14979
+Mount Waddington,1998,14602
+Mount Waddington,1999,14224
+Mount Waddington,2000,13807
+Mount Waddington,2001,13678
+Mount Waddington,2002,13135
+Mount Waddington,2003,12753
+Mount Waddington,2004,12777
+Mount Waddington,2005,12293
+Mount Waddington,2006,12005
+Mount Waddington,2007,11866
+Mount Waddington,2008,11826
+Mount Waddington,2009,11844
+Mount Waddington,2010,11776
+Mount Waddington,2011,11730
+Mount Waddington,2012,11671
+Mount Waddington,2013,11741
+Mount Waddington,2014,11772
+Mount Waddington,2015,11652
+Mount Waddington,2016,11503
+Mount Waddington,2017,11510
+Mount Waddington,2018,11585
+Central Coast,1986,3189
+Central Coast,1987,3271
+Central Coast,1988,3349
+Central Coast,1989,3500
+Central Coast,1990,3714
+Central Coast,1991,3702
+Central Coast,1992,3724
+Central Coast,1993,3746
+Central Coast,1994,3820
+Central Coast,1995,3869
+Central Coast,1996,3992
+Central Coast,1997,4218
+Central Coast,1998,4144
+Central Coast,1999,4109
+Central Coast,2000,4108
+Central Coast,2001,3985
+Central Coast,2002,3974
+Central Coast,2003,3830
+Central Coast,2004,3707
+Central Coast,2005,3637
+Central Coast,2006,3502
+Central Coast,2007,3400
+Central Coast,2008,3351
+Central Coast,2009,3320
+Central Coast,2010,3326
+Central Coast,2011,3297
+Central Coast,2012,3320
+Central Coast,2013,3329
+Central Coast,2014,3368
+Central Coast,2015,3418
+Central Coast,2016,3463
+Central Coast,2017,3491
+Central Coast,2018,3502
+North Coast,1986,24548
+North Coast,1987,24743
+North Coast,1988,24482
+North Coast,1989,24804
+North Coast,1990,25010
+North Coast,1991,25111
+North Coast,1992,25384
+North Coast,1993,25499
+North Coast,1994,25431
+North Coast,1995,25598
+North Coast,1996,25824
+North Coast,1997,25328
+North Coast,1998,24338
+North Coast,1999,24065
+North Coast,2000,22783
+North Coast,2001,22227
+North Coast,2002,21422
+North Coast,2003,20837
+North Coast,2004,20603
+North Coast,2005,20136
+North Coast,2006,19918
+North Coast,2007,19546
+North Coast,2008,19310
+North Coast,2009,19087
+North Coast,2010,19034
+North Coast,2011,19181
+North Coast,2012,19146
+North Coast,2013,19130
+North Coast,2014,19111
+North Coast,2015,18864
+North Coast,2016,18970
+North Coast,2017,18881
+North Coast,2018,18852
+Kitimat-Stikine,1986,41692
+Kitimat-Stikine,1987,42314
+Kitimat-Stikine,1988,42502
+Kitimat-Stikine,1989,42873
+Kitimat-Stikine,1990,43625
+Kitimat-Stikine,1991,44047
+Kitimat-Stikine,1992,44214
+Kitimat-Stikine,1993,44493
+Kitimat-Stikine,1994,45047
+Kitimat-Stikine,1995,45681
+Kitimat-Stikine,1996,46602
+Kitimat-Stikine,1997,46718
+Kitimat-Stikine,1998,45699
+Kitimat-Stikine,1999,44785
+Kitimat-Stikine,2000,44468
+Kitimat-Stikine,2001,43408
+Kitimat-Stikine,2002,42247
+Kitimat-Stikine,2003,41718
+Kitimat-Stikine,2004,41392
+Kitimat-Stikine,2005,40601
+Kitimat-Stikine,2006,39879
+Kitimat-Stikine,2007,38874
+Kitimat-Stikine,2008,38733
+Kitimat-Stikine,2009,38600
+Kitimat-Stikine,2010,38316
+Kitimat-Stikine,2011,38040
+Kitimat-Stikine,2012,37983
+Kitimat-Stikine,2013,38506
+Kitimat-Stikine,2014,39020
+Kitimat-Stikine,2015,39061
+Kitimat-Stikine,2016,39029
+Kitimat-Stikine,2017,39108
+Kitimat-Stikine,2018,39225
+Bulkley-Nechako,1986,38188
+Bulkley-Nechako,1987,38213
+Bulkley-Nechako,1988,38248
+Bulkley-Nechako,1989,38121
+Bulkley-Nechako,1990,38573
+Bulkley-Nechako,1991,38794
+Bulkley-Nechako,1992,39273
+Bulkley-Nechako,1993,39616
+Bulkley-Nechako,1994,40480
+Bulkley-Nechako,1995,41415
+Bulkley-Nechako,1996,42609
+Bulkley-Nechako,1997,42896
+Bulkley-Nechako,1998,42716
+Bulkley-Nechako,1999,42176
+Bulkley-Nechako,2000,41761
+Bulkley-Nechako,2001,41168
+Bulkley-Nechako,2002,40112
+Bulkley-Nechako,2003,39296
+Bulkley-Nechako,2004,39628
+Bulkley-Nechako,2005,38962
+Bulkley-Nechako,2006,38217
+Bulkley-Nechako,2007,37953
+Bulkley-Nechako,2008,38407
+Bulkley-Nechako,2009,38703
+Bulkley-Nechako,2010,39139
+Bulkley-Nechako,2011,39908
+Bulkley-Nechako,2012,39631
+Bulkley-Nechako,2013,39704
+Bulkley-Nechako,2014,40068
+Bulkley-Nechako,2015,39719
+Bulkley-Nechako,2016,39567
+Bulkley-Nechako,2017,39792
+Bulkley-Nechako,2018,40047
+Fraser-Fort George,1986,92268
+Fraser-Fort George,1987,91742
+Fraser-Fort George,1988,91490
+Fraser-Fort George,1989,91760
+Fraser-Fort George,1990,92548
+Fraser-Fort George,1991,93164
+Fraser-Fort George,1992,94065
+Fraser-Fort George,1993,96692
+Fraser-Fort George,1994,98683
+Fraser-Fort George,1995,100886
+Fraser-Fort George,1996,102798
+Fraser-Fort George,1997,103366
+Fraser-Fort George,1998,102147
+Fraser-Fort George,1999,101085
+Fraser-Fort George,2000,100184
+Fraser-Fort George,2001,98490
+Fraser-Fort George,2002,96701
+Fraser-Fort George,2003,96642
+Fraser-Fort George,2004,96943
+Fraser-Fort George,2005,95066
+Fraser-Fort George,2006,94304
+Fraser-Fort George,2007,93890
+Fraser-Fort George,2008,93663
+Fraser-Fort George,2009,93388
+Fraser-Fort George,2010,93514
+Fraser-Fort George,2011,93931
+Fraser-Fort George,2012,95145
+Fraser-Fort George,2013,97074
+Fraser-Fort George,2014,98349
+Fraser-Fort George,2015,98070
+Fraser-Fort George,2016,98707
+Fraser-Fort George,2017,99467
+Fraser-Fort George,2018,100340
+Peace River,1986,54129
+Peace River,1987,53512
+Peace River,1988,52677
+Peace River,1989,53249
+Peace River,1990,53914
+Peace River,1991,54999
+Peace River,1992,55000
+Peace River,1993,55385
+Peace River,1994,56166
+Peace River,1995,57322
+Peace River,1996,58968
+Peace River,1997,58561
+Peace River,1998,57992
+Peace River,1999,57609
+Peace River,2000,57051
+Peace River,2001,56319
+Peace River,2002,56404
+Peace River,2003,56046
+Peace River,2004,58621
+Peace River,2005,58757
+Peace River,2006,59450
+Peace River,2007,59621
+Peace River,2008,59777
+Peace River,2009,60404
+Peace River,2010,60793
+Peace River,2011,61828
+Peace River,2012,63475
+Peace River,2013,65617
+Peace River,2014,67162
+Peace River,2015,66480
+Peace River,2016,65736
+Peace River,2017,65722
+Peace River,2018,65920
+Stikine,1986,1371
+Stikine,1987,1338
+Stikine,1988,1340
+Stikine,1989,1284
+Stikine,1990,1305
+Stikine,1991,1367
+Stikine,1992,1067
+Stikine,1993,888
+Stikine,1994,859
+Stikine,1995,894
+Stikine,1996,926
+Stikine,1997,942
+Stikine,1998,925
+Stikine,1999,909
+Stikine,2000,897
+Stikine,2001,892
+Stikine,2002,828
+Stikine,2003,826
+Stikine,2004,794
+Stikine,2005,781
+Stikine,2006,748
+Stikine,2007,741
+Stikine,2008,730
+Stikine,2009,699
+Stikine,2010,675
+Stikine,2011,704
+Stikine,2012,726
+Stikine,2013,745
+Stikine,2014,752
+Stikine,2015,765
+Stikine,2016,768
+Stikine,2017,751
+Stikine,2018,741
+Northern Rockies,1986,5351
+Northern Rockies,1987,5203
+Northern Rockies,1988,5101
+Northern Rockies,1989,4896
+Northern Rockies,1990,4900
+Northern Rockies,1991,5205
+Northern Rockies,1992,5349
+Northern Rockies,1993,5435
+Northern Rockies,1994,5545
+Northern Rockies,1995,5841
+Northern Rockies,1996,6108
+Northern Rockies,1997,6332
+Northern Rockies,1998,6250
+Northern Rockies,1999,6172
+Northern Rockies,2000,6007
+Northern Rockies,2001,5993
+Northern Rockies,2002,5962
+Northern Rockies,2003,6001
+Northern Rockies,2004,6231
+Northern Rockies,2005,6300
+Northern Rockies,2006,6258
+Northern Rockies,2007,6033
+Northern Rockies,2008,5910
+Northern Rockies,2009,5799
+Northern Rockies,2010,5930
+Northern Rockies,2011,6027
+Northern Rockies,2012,5930
+Northern Rockies,2013,5843
+Northern Rockies,2014,5784
+Northern Rockies,2015,5725
+Northern Rockies,2016,5632
+Northern Rockies,2017,5558
+Northern Rockies,2018,5517
